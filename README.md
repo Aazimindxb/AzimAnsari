@@ -17,3 +17,5 @@ Skills: Data pipelines, ETL, Cloud data, SQL, BigQuery
 
 ## Certifications and Courses
 - Google Data Engineer Certification (in progress)
+[![Google Badge](https://images.credly.com/size/680x680/images/cf7d3e48-d1d0-4b19-a597-1dbbc27c22e2/image.png)](https://www.credly.com/badges/ee1422e5-3a5e-4989-89a2-4f2d21482a7f/public_url)
+
