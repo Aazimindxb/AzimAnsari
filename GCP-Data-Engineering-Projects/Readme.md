@@ -1,0 +1,38 @@
+# Google Cloud Data Engineering Projects
+This is a template you can use for your next data engineering portfolio project.
+
+## Overview
+
+Here you want to write a short overview of the goals of your project and how it works at a high level.
+
+## Dataset
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## Schema
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## Project Files
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## Environment
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## How to run
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## Lessons Learned
+
+It's good to reflect on what you learned throughout the process of building this project.
+
+## Reference
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+## Contact
+
+Please feel free to contact me if you have any questions at: [![LinkedIn](https://ae.linkedin.com/in/aazim-ansari)](https://ae.linkedin.com/in/aazim-ansari)
