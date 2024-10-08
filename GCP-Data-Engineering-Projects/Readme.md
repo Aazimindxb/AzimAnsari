@@ -1,3 +1,5 @@
+![Banner](https://github.com/Aazimindxb/AzimAnsari/blob/main/GCP-Data-Engineering-Projects/Blog_Banner.png)
+
 # Google Cloud Data Engineering Projects
 This is a template you can use for your next data engineering portfolio project.
 
