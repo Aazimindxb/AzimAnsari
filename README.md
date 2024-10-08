@@ -27,5 +27,5 @@ Skills: Data pipelines, ETL, Cloud data, SQL, BigQuery
 
  [![Streaming Analytics into BigQuery Skill Badge](https://images.credly.com/size/340x340/images/3934ff47-3ef9-40cb-82d2-66a40d33886a/image.png)](https://www.credly.com/badges/79ed57e8-862e-405d-8a9b-16e8e4364ecc/public_url)
 
- ![Google Cloud Certified Professional Data Engineer - In progress](https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)
+ [![Google Cloud Certified Professional Data Engineer - In progress](https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)](https://www.credly.com/org/google-cloud/badge/professional-data-engineer-certification)
 
