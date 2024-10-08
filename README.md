@@ -17,5 +17,13 @@ Skills: Data pipelines, ETL, Cloud data, SQL, BigQuery
 
 ## Certifications and Courses
 - Google Data Engineer Certification (in progress)
-- [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/340x340/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](https://www.credly.com/badges/ee1422e5-3a5e-4989-89a2-4f2d21482a7f/public_url)
+ [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/340x340/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](https://www.credly.com/badges/ee1422e5-3a5e-4989-89a2-4f2d21482a7f/public_url)
+
+ [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/340x340/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/44a40b53-0d63-40c0-b82b-0901c120f86c/public_url)
+
+ [![Derive Insights from BigQuery Data Skill Badge](https://images.credly.com/size/340x340/images/11088b22-7be5-4fe3-995d-c014514c8dc3/image.png)](https://www.credly.com/badges/fe7378f7-15d7-434f-9a51-7240eca01741/public_url)
+
+ [![Build a Data Warehouse with BigQuery Skill Badge](https://images.credly.com/size/340x340/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png)](https://www.credly.com/badges/daf28d78-1a9e-4161-981c-050288334262/public_url)
+
+ [![Streaming Analytics into BigQuery Skill Badge](https://images.credly.com/size/340x340/images/3934ff47-3ef9-40cb-82d2-66a40d33886a/image.png)](https://www.credly.com/badges/79ed57e8-862e-405d-8a9b-16e8e4364ecc/public_url)
 
