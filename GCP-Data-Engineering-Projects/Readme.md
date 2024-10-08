@@ -7,6 +7,15 @@ This is a template you can use for your next data engineering portfolio project.
 
 Here you want to write a short overview of the goals of your project and how it works at a high level.
 
+## Architecture
+
+Here you want to write a short overview of the goals of your project and how it works at a high level.
+
+## Environment
+
+Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+
+
 ## Dataset
 
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
@@ -16,10 +25,6 @@ Here you want to write a short overview of Dataset. How this dataset can be used
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
 
 ## Project Files
-
-Here you want to write a short overview of Dataset. How this dataset can be used in this project.
-
-## Environment
 
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
 
