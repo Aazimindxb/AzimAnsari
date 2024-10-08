@@ -1,6 +1,6 @@
 # Aazim Ansari
 #### I am data engineering enthusiast
-![I am data engineering enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am data engineering enthusiast](https://github.com/Aazimindxb/AzimAnsari/blob/main/data_is_Power.jpeg)
 
 Currently pursuing the Google Data Engineer Certification. I’m passionate about turning data into insights, building scalable data pipelines, managing large datasets with ETL processes, and working with cloud data services.  
 
