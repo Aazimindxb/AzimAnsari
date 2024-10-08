@@ -35,4 +35,6 @@ Here you want to write a short overview of Dataset. How this dataset can be used
 
 ## Contact
 
-Please feel free to contact me if you have any questions at: [![LinkedIn](https://ae.linkedin.com/in/aazim-ansari)](https://ae.linkedin.com/in/aazim-ansari)
+Please feel free to contact me if you have any questions at: <a href="https://ae.linkedin.com/in/aazim-ansari">
+    <img src="https://github.com/Aazimindxb/AzimAnsari/blob/main/GCP-Data-Engineering-Projects/linkedin-logo-thumbnail.png" alt="LinkedIn" width="20">
+</a>
