@@ -1,7 +1,13 @@
 ![Banner](https://github.com/Aazimindxb/AzimAnsari/blob/main/GCP-Data-Engineering-Projects/Blog_Banner.png)
 
 # Google Cloud Data Engineering Projects
-This is a template you can use for your next data engineering portfolio project.
+Welcome to my collection of Google Cloud Data Engineering projects! These projects showcase my skills in designing and implementing data pipelines, leveraging the powerful tools and services offered by Google Cloud Platform (GCP). From data ingestion and processing to storage and visualization, each project demonstrates practical applications of data engineering principles. Dive in to explore how these projects have solved real-world data challenges and driven insights.
+
+## 01. Project Titanic
+This project is based on the legendary Titanic ML competition on [Kaggle](https://www.kaggle.com/competitions/titanic/overview), the objective of this project is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. [In this project](https://github.com/Aazimindxb/AzimAnsari/edit/main/GCP-Data-Engineering-Projects/Project-Titanic/Readme.md) we built a predictive model to answer the question: “What sorts of people were more likely to survive?” by using Google Cloud Platform. 
+
+
+
 
 ## Overview
 
