@@ -13,8 +13,13 @@ Here you want to write a short overview of the goals of your project and how it 
 
 ## Environment
 
-Here you want to write a short overview of Dataset. How this dataset can be used in this project.
-
+Programming Language: Python
+Structured Language: SQL
+Google Cloud Platform:
+    - BigQuery
+    - Cloud Storage
+    - Looker Studio
+    - Compute Instance
 
 ## Dataset
 
@@ -24,7 +29,7 @@ Here you want to write a short overview of Dataset. How this dataset can be used
 
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
 
-## Project Files
+## Project Files (Scripts)
 
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
 
