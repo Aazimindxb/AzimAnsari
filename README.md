@@ -11,6 +11,9 @@ I’m a dedicated and hard-working person who learns quickly and adapts to new t
 
 Skills: Data pipelines, ETL, Cloud data, SQL, BigQuery
 
+## Projects
+Welcome to my portfolio of data engineering projects, where I showcase my expertise in leveraging Google Cloud to build robust data solutions. Throughout these projects, I’ve focused on ingesting data from diverse sources, designing efficient ETL/ELT processes, and developing seamless data pipelines. Utilizing tools like BigQuery and various cloud services, I’ve transformed raw data into actionable insights, demonstrating my ability to manage large datasets and optimize data workflows. [Join me](https://github.com/Aazimindxb/AzimAnsari/tree/main/GCP-Data-Engineering-Projects#google-cloud-data-engineering-projects) as I delve into the details of these projects, highlighting the challenges I faced and the innovative solutions I implemented.
+
 ## Certifications and Courses
   
  [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/340x340/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](https://www.credly.com/badges/ee1422e5-3a5e-4989-89a2-4f2d21482a7f/public_url)
