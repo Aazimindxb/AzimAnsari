@@ -26,6 +26,8 @@ Welcome to my portfolio of data engineering projects, where I showcase my expert
 
  [![Streaming Analytics into BigQuery Skill Badge](https://images.credly.com/size/340x340/images/3934ff47-3ef9-40cb-82d2-66a40d33886a/image.png)](https://www.credly.com/badges/79ed57e8-862e-405d-8a9b-16e8e4364ecc/public_url)
 
+ [![Share Data Using Google Data Cloud Skill Badge](https://images.credly.com/size/340x340/images/b0e1da4e-e1c9-4201-9803-cf3389e1d0f9/image.png)](https://www.credly.com/badges/8c1ba442-aab0-40f7-a9a4-fded6c200a6a/public_url)
+
 > [!NOTE]
 > Certification currently being pursued
 
