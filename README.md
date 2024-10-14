@@ -33,3 +33,10 @@ Welcome to my portfolio of data engineering projects, where I showcase my expert
 
  [![Google Cloud Certified Professional Data Engineer - In progress](https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)](https://www.credly.com/org/google-cloud/badge/professional-data-engineer-certification)
 
+
+
+## Contact
+
+Please feel free to contact me if you have any questions at: <a href="https://ae.linkedin.com/in/aazim-ansari">
+    <img src="https://github.com/Aazimindxb/AzimAnsari/blob/main/GCP-Data-Engineering-Projects/LinkedIn_Logo.png" alt="LinkedIn" width="60">
+</a>
