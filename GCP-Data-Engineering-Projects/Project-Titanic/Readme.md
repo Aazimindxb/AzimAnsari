@@ -33,8 +33,28 @@ Here you want to write a short overview of Dataset. How this dataset can be used
 
 ## Project Files (Scripts)
 
-Here you want to write a short overview of Dataset. How this dataset can be used in this project.
+Some basic commands we have used in this project:
 
+Create a dataset in BigQuery:
+```
+CREATE OR REPLACE MODEL 'project_titanic.pt_model'
+OPTIONS(model_type='logistic_reg',
+        input_label_cols=['Survived']) AS
+SELECT * FROM 'project_titanic.training_data' ;
+```
+
+Create a ML model in BigQuery:
+```
+
+```
+
+Evaluate the model in BigQuery:
+```
+```
+
+Use model for prediction in BigQuery:
+```
+```
 ## How to run
 
 Here you want to write a short overview of Dataset. How this dataset can be used in this project.
