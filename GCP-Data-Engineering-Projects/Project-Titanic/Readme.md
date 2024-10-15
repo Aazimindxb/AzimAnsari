@@ -9,6 +9,13 @@ This project is based on the legendary Titanic ML competition, which serves as a
 
 Here you want to write a short overview of the goals of your project and how it works at a high level.
 
+Key phases of machine learning ML project:
+1. Load data in BigQuery
+2. Select and preprocess Features
+3. Create the Model inside BigQuery
+4. Evaluate the performance of trained model
+5. Use the model to make predictions
+
 ## Architecture
 
 Here you want to write a short overview of the goals of your project and how it works at a high level.
@@ -39,7 +46,7 @@ Create a dataset in BigQuery:
 ```
 ```
 
-Create a ML model in BigQuery:
+###Create a ML model in BigQuery:
 ```
 CREATE OR REPLACE MODEL 'project_titanic.pt_model'
 OPTIONS(model_type='logistic_reg',
@@ -47,12 +54,12 @@ OPTIONS(model_type='logistic_reg',
 SELECT * FROM 'project_titanic.training_data' ;
 ```
 
-Evaluate the model in BigQuery:
+###Evaluate the model in BigQuery:
 ```
 SELECT * FROM ML.EVALUATE(MODEL 'project_titanic.pt_model') ;
 ```
 
-Use model for prediction in BigQuery:
+###Use model for prediction in BigQuery:
 ```
 SELECT PassengerId,predicted_Survived
 FROM
