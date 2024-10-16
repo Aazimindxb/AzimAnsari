@@ -28,6 +28,9 @@ Welcome to my portfolio of data engineering projects, where I showcase my expert
 
  [![Share Data Using Google Data Cloud Skill Badge](https://images.credly.com/size/340x340/images/b0e1da4e-e1c9-4201-9803-cf3389e1d0f9/image.png)](https://www.credly.com/badges/8c1ba442-aab0-40f7-a9a4-fded6c200a6a/public_url)
 
+
+ [![Prompt Design in Vertex AI Skill Badge](https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/48eacd88-a611-4893-9685-70343f528ae4/public_url)
+
  [![Google Cloud Gemini at Work credential from Google Cloud Asia Pacific](Gemini_at_work_attendence_certificate.png)](https://sgq.io/ots9Sh7)
 
 
